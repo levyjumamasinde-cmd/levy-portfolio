@@ -610,10 +610,14 @@ h2 {
   font-size: 13px;
 }
 
-.education-card > div > span:last-child {
+.education-card > div > span:not(.education-label) {
   color: var(--muted);
   font-size: 10px;
   line-height: 1.6;
+}
+
+.education-card .education-label:not(:first-child) {
+  margin-top: 8px;
 }
 
 .education-arrow {

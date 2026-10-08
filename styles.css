@@ -1052,12 +1052,18 @@ h2 {
   font-size: 8px;
 }
 
+.project-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin-top: auto;
+  padding-top: 22px;
+}
+
 .project-link {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  margin-top: auto;
-  padding-top: 22px;
   color: var(--text);
   font-size: 11px;
   font-weight: 700;

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://levyjumamasinde-cmd.github.io/levy-portfolio/sitemap.xml

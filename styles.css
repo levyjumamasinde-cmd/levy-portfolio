@@ -616,6 +616,18 @@ h2 {
   line-height: 1.6;
 }
 
+.education-highlight {
+  color: var(--text);
+  font-size: 10px;
+  line-height: 1.6;
+  text-decoration-color: rgba(86, 140, 255, 0.55);
+  text-underline-offset: 3px;
+}
+
+.education-highlight:hover {
+  color: var(--accent);
+}
+
 .education-card .education-label:not(:first-child) {
   margin-top: 8px;
 }

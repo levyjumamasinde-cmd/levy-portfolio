@@ -1,0 +1,4 @@
+project_id = "mzwvccqmnmftpufdwxfs"
+
+[functions.authorize-result-slip]
+verify_jwt = false

@@ -36,7 +36,7 @@ Then visit `http://localhost:8000`.
 - Responsive layouts for desktop and mobile
 - Mobile navigation menu
 - Sections for about, experience, interests, projects, certificates, and contact
-- Public Google AI badge PDF and verified Credly badge in the certificates section
+- Public Coursera course certificate and Google AI badge PDF, each listed separately, with Credly badge verification
 - Downloadable résumé and links to social profiles
 - Passcode-gated access to the privately stored first-year result slip
 
